@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\vikto\\AppData\\Local\\Programs\\Python\\Python313",
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.analysis.extraPaths": ["./src"]
+}
