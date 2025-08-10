@@ -1,0 +1,39 @@
+#resources/telco 
+
+- Context:
+	- **Product:** Postpaid Mobile Plan with 100 GB data + unlimited calls.
+	- **Offering:** "Premium Family Plan" bundling 3 SIMs with the same postpaid product.
+	- **Customer:** John Doe wants to subscribe to the Premium Family Plan.
+	- **Order:** John places an order via the telco's online portal.
+- Step-by-step Orchestration Workflow
+	- 1. **Order Capture:**
+		- John selects the **Premium Family Plan** and chooses the 3 SIM cards from the online portal.
+		- He enters personal details, shipping address for SIMs, and payment method.
+		- The order is submitted to the BSS orchestration engine.
+	- 2. **Order Decomposition:**
+		- The orchestration engine decomposes the order into:
+		- 1 subscription for the primary user (John).
+		- 3 SIM card assignments (one primary SIM + 2 secondary SIMs).
+		- Product entitlement (100GB data + unlimited calls for each SIM).
+	- 3. **Eligibility & Validation:**
+		- The orchestration solution checks John’s credit score and payment verification.
+		- Verifies that John is eligible for the Premium Family Plan.
+		- Checks inventory for available SIM cards and port availability.
+	- 4. **Provisioning Workflows Execution:**
+		- Sends provisioning requests to the **Network Provisioning System** to activate three mobile subscriptions.
+		- Requests SIM card assignment and shipment through **Inventory Management** and **Logistics Systems**.
+		- Triggers billing setup for the new subscriptions in the **Billing System**.
+		- Updates the **Customer Relationship Management (CRM)** system with new subscription details.
+	- 5. **Status Updates & Tracking:**
+		- The orchestration engine monitors each task:
+		- SIM card shipped.
+		- Services activated.
+		- Billing account created.
+		- If any step fails (e.g., credit check denied), it pauses order processing and notifies the customer care team.
+	- 6. **Completion & Customer Notification:**
+		- Once all processes complete successfully, John receives confirmation emails:
+			- Activation confirmation.
+			- SIM shipping tracking info.
+			- Welcome guide for the new plan.
+	- 7. **Post-Order Support:**
+		- If John wants to upgrade or add another SIM, the orchestration engine manages these orders similarly, maintaining the relationship between customer, offerings, and backend systems.

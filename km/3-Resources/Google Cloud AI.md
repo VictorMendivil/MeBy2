@@ -1,0 +1,3 @@
+#resources/IT 
+
+- Refers to a suite of [[AI]] tools, services, and pre-trained machine learning (ML) models offered by [[Google Cloud Platform (GCP)]]. It is designed to help individuals, developers, and enterprises build, deploy, and scale intelligent applications with high efficiency and minimal complexity. Google Cloud AI leverages Google's cutting-edge advancements in [[AI]] and ML research to provide solutions for a wide range of tasks, such as [[NLP]], computer vision, translation, predictive analytics, and conversational AI.

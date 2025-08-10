@@ -1,0 +1,9 @@
+#resources/IT 
+
+- Microsoft Synapse (officially Azure Synapse Analytics) is an integrated analytics platform that combines data warehousing, big data analytics, and data integration into a unified service. It's designed to handle enterprise-scale analytics workloads and brings together multiple data processing capabilities under one roof.
+- **Core components include:**
+	- **Synapse SQL** provides both serverless and dedicated SQL compute options. The serverless SQL pool lets you query data directly from your data lake using T-SQL without provisioning infrastructure, while dedicated SQL pools offer traditional data warehouse capabilities with predictable performance for mission-critical workloads.
+	- **Apache Spark pools** enable big data processing and machine learning workloads using familiar languages like Python, Scala, .NET, and SQL. These are fully managed Spark clusters that can auto-scale based on demand.
+	- **Synapse Pipelines** handles data integration and orchestration, similar to Azure Data Factory. You can create ETL/ELT workflows to move and transform data from various sources into your analytics environment.
+	- **Synapse Studio** is the unified web-based interface where you can develop, manage, and monitor all aspects of your analytics solution. It provides notebooks for data exploration, SQL scripts for querying, and visual pipeline designers for data workflows.
+- The platform integrates deeply with **Power BI** for visualization and reporting, **Azure Machine Learning** for advanced analytics, and supports various data sources including Azure Data Lake, SQL databases, and third-party systems.

@@ -1,0 +1,3 @@
+#resources 
+
+* It is the Norwegian National Population Register. It contains key information about all individuals who are or have been residents of Norway. This includes details such as names, addresses, marital status, and other vital statistics. The register is managed by the Norwegian Tax Administration ([[Skatteetaten]]) and is used for various administrative purposes, including tax collection, social security, and public services

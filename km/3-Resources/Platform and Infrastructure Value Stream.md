@@ -1,0 +1,6 @@
+- It's an [[Horizontal Value Stream]]
+- Value Stream Leader: [[Rolf Waaler]]
+- Value Stream Architect: [[Leif Thomas Lien]] and [[Knut Harald Graven]]
+- From here we're driving TietoEvry Exit and [[Private Cloud]]
+- Here is where we have the teams specialized in Mainframes
+- There is close collaboration with the [[IT Cloud Platforms]] department

@@ -1,0 +1,4 @@
+#resources/app 
+
+* Part of the [[Mobile networks Value Stream]]
+* Map and Geo-database. A Geographic Information System (GIS) consisting of web applications, geodatabases, and an address register. The system collects data from various sources/data warehouses and presents/aggregates them in map applications. It displays mobile data, alarms for mobile and fixed networks, as well as inventory data for both mobile and fixed. The system has clients for project tracking related to different types of development and market situations. Data from the various sources is updated daily, weekly, and monthly using ETL tools and scripts. The system also includes its own WMS server that provides background maps to other support systems, such as Astrix Radio Planner, NIMS, and MPM. The system mainly consists of ESRI products (ArcGIS Server, ArcGIS Desktop), the FME ETL tool, and Geocortex, which is used as the frontend in web applications.
