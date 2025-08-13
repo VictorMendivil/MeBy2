@@ -1,3 +1,0 @@
-#resources/telenor 
-
-* Internal Datacenter

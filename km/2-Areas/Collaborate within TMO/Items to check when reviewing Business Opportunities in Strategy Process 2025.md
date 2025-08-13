@@ -1,4 +1,0 @@
-- [x] Nova or Private Cloud are having a Business Opportunity in the [[Mobile business Value Stream]] portfolio ✅ 2025-05-26
-- [x] GenAI is having a Business Opportunity in the [[Shared Application Services Value Stream]] portfolio ✅ 2025-05-26
-- [ ] We are able to report headcount reduction due to Datawarehouse decommissioning considering increases on the other Value Streams
-- [ ] 

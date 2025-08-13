@@ -1,3 +1,0 @@
-#resources/app 
-
-* is a middleware platform based on IBM WebSphere and used for integration of systems in IS Fixed. Metro is used as well as a platform for running Java based web applications. Metro supports reuse of code and components to simplify development and reuse time to market. Metros clients are mostly web applications communicating with Metro using SOAP and REST services as well as other clients in need of access to core IT systems. Metro provides also common interfaces and services for sending out SMS, E-mail, Fax as well as communication via MQ, SOAP, REST, HTTP (over proxy), CICS, JDBC and RMI(IIOP). Metro provides tools and process to support efficient development and to assure high quality of the applications running on Metro.
