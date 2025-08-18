@@ -1,0 +1,32 @@
+#resources/knowledge
+
+- Storytelling can help bringing an audience into the presentation, improve recall and drive action
+- There are three important areas in Value Storytelling
+	- Combating biases: By bringing real examples, audience see themselves in the story and feel invested
+	- Using memory processes: Easy to remember because information is placed in a familiar, easy-to-remember way
+	- Triggering emotions: change-inspiring stories often invoke strong emotions and compel for action
+- Three Act storytelling structure
+	- Act 1: the setup
+		- Introduce the central character and the problem or opportunity
+		- Empathy and engagement is created - the audience should care about the character (customer, an executive, board member, or the enterprise)
+		- Narrative
+			- Who is the protagonist?
+			- What's the story?
+			- What's the context?
+			- What is the key evidence, facts and data?
+			- What's the catalyst?
+	- Act 2: the confrontation
+		- Add obstacles to increase audience engagement
+		- Describe the problem in humans and businesses terms and provide facts
+		- Narrative
+			- What is the conflict?
+			- Why is there a conflict?
+			- What happens if the conflict is unresolved?
+			- Why should do we address the conflict?
+	- Act 3: the resolution
+		- Outline the solution and how it solves the problem or achieve the opportunity
+		- Narrative
+			- How do we resolve this?
+			- What is the benefit or lesson to learn?
+			- What are the next steps?
+		- 

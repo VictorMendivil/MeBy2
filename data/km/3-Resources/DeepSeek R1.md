@@ -1,0 +1,3 @@
+#resources/IT  
+
+- DeepSeek R1 represents a significant advancement in AI technology, particularly in the area of reasoning and problem-solving. Its open-source nature and focus on reasoning tasks make it particularly valuable for applications requiring complex analysis and logical thinking. The model is designed to be both powerful and accessible, offering organizations an alternative to proprietary AI solutions while maintaining competitive performance capabilities.

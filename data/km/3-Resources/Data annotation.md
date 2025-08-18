@@ -1,0 +1,5 @@
+#resources/knowledge  
+
+- is a crucial process in artificial intelligence and machine learning where raw data is labeled, tagged, or marked up with relevant information (metadata) to make it meaningful and usable for training AI models. It's essentially the process of adding labels, tags, or other identifying information to data so that AI systems can learn from it.
+- Rather than being created by LLMs, annotations are typically created through human effort or semi-automated processes and are used TO TRAIN AI models (including LLMs). LLMs are consumers of annotations, not creators of them. The annotations serve as the "ground truth" that helps train AI models to recognize patterns and make predictions.
+- Think of it this way: LLMs are the students, and annotations are the textbooks and study materials created by human experts to teach them. The annotations need to be accurate and reliable because they form the foundation of what the AI will learn.

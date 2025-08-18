@@ -1,0 +1,5 @@
+#resources/app 
+
+* Part of [[Hardware Sales and Solutions Value Stream]]
+* ID: S06098
+* Our SAP solution is tightly coupled with the point of sale system from HEADS. We use an old version that runs locally on each computer in the store and needs Evry  VPN connections. Heads has a new online version [https://heads.com/point-of-sale](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fheads.com%2Fpoint-of-sale&data=05%7C02%7Cvictor.mendivil%40telenor.no%7C7544aea651d249f0b37008dda4118c3c%7C1676489c5c7246b7ba639ab90c4aad44%7C1%7C0%7C638847117505930784%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tpVH9gjocj82I96ZfF8DyVGtYEJL87SUMaCeF9wsqVo%3D&reserved=0) that could simplify all this. My dream is to just start using the new online version and experiment with the capabilities they provide when using POS and ERP in the cloud.

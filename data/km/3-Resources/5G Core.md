@@ -1,0 +1,7 @@
+#resources/telco 
+
+> 5G Core (5GC) is the heart of next-generation network technology, serving as the central component in modern 5G networks. It's a fundamental shift from previous network architectures, enabling more agile and scalable networks. Unlike its predecessors, 5G Core supports the convergence of network services, allowing for a seamless transition between wired and wireless services. This technology is vital in realizing the full potential of 5G, including [Private 5G networks](https://www.supermicro.com/en/glossary/5g-ran), by providing enhanced capabilities such as high data rates, reduced latency, and improved efficiency and reliability.
+> https://www.supermicro.com/en/glossary/5g-core
+
+> What are the core technologies of 5G?  
+    The core technologies of 5G include Network Slicing, which allows for multiple virtual networks on a single physical infrastructure; Massive MIMO (Multiple Input Multiple Output) for increased capacity and efficiency; and [[mmWave]] technology, offering high-frequency bands for greater speed and capacity. Additionally, 5G employs advanced technologies like beamforming for improved signal direction and strength, and [Edge Computing](https://www.supermicro.com/en/glossary/edge-computing) for reduced latency.

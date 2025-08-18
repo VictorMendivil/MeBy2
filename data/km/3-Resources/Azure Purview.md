@@ -1,0 +1,3 @@
+#resources/IT 
+
+- It is a comprehensive, unified solution from [[Microsoft]] designed to help organizations manage, govern, and protect their data across various environments. Unveiled as a rebrand and expansion of Microsoft's governance and compliance products, Microsoft Purview combines multiple services to streamline data governance, security, compliance, and risk management. It enables organizations to get visibility into their data estate, ensure proper data handling, comply with regulatory requirements, and protect sensitive information

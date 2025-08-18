@@ -1,0 +1,3 @@
+#resources/telco 
+
+* In the context of telecommunications in Norway, "Ekom" refers to **electronic communications services**. These services encompass a wide range of communication technologies, including mobile networks, internet services, radio, and television broadcasting. The [[Norwegian Communications Authority (NKOM)]] oversees and regulates these services to ensure they are secure, resilient, and of high quality
